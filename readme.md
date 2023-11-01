@@ -12,9 +12,9 @@
 <br><br>
 
 ## Use this link to make readme profile !!
-<a href ="[http://surl.li/msvob](https://rahuldkjain.github.io/gh-profile-readme-generator/)"> github readme Genreator ➡️ http://surl.li/msvob </a>
+<a href ="https://rahuldkjain.github.io/gh-profile-readme-generator/">   github readme Genreator ➡️ http://surl.li/msvob </a>
 
-## Icons Or Links of the Social Media!
+##Icons Or Links of the Social Media!
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)]()
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]()
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)]()
